@@ -1,0 +1,95 @@
+2026-10-29 13:55:05,201 | INFO | === Inicio da execucao ===
+2026-10-29 13:55:05,202 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 156, in main
+    raise FileNotFoundError(f"Pasta de saves nao encontrada: {SAVE_LOCAL}")
+FileNotFoundError: Pasta de saves nao encontrada: C:\Users\warap\Documents\KONAMI\Pro Evolution Soccer 2013\save
+2026-10-29 13:55:49,384 | INFO | === Inicio da execucao ===
+2026-10-29 13:56:04,153 | INFO | Estado inicial registrado (17 arquivos)
+2026-10-29 13:56:04,808 | INFO | Abrindo PES 2013
+2026-10-29 13:57:08,269 | INFO | PES 2013 encerrado (codigo: 0)
+2026-10-29 13:57:22,713 | INFO | Nenhuma alteracao para enviar
+2026-10-29 13:57:22,715 | INFO | === Execucao concluida sem erros ===
+2026-10-30 11:04:41,754 | INFO | === Inicio da execucao ===
+2026-10-30 11:05:24,245 | INFO | === Inicio da execucao ===
+2026-10-30 11:05:30,932 | INFO | === Inicio da execucao ===
+2026-10-30 11:06:15,047 | INFO | Backup local criado: C:\Users\Pardo\Documents\Automacao_PES_2013\backups\20261030_110614_905765
+2026-10-30 11:06:15,720 | INFO | Download concluido (17 arquivos)
+2026-10-30 11:06:16,076 | INFO | Abrindo PES 2013
+2026-10-30 14:40:29,727 | INFO | PES 2013 encerrado (codigo: 0)
+2026-11-01 11:28:18,985 | INFO | === Inicio da execucao ===
+2026-11-01 11:28:50,505 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-01 11:40:32,501 | INFO | === Inicio da execucao ===
+2026-11-01 11:41:03,078 | INFO | Estado inicial registrado (17 arquivos)
+2026-11-01 11:41:03,422 | INFO | Abrindo PES 2013
+2026-11-02 11:28:53,499 | INFO | === Inicio da execucao ===
+2026-11-02 11:29:28,874 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:29:36,985 | INFO | === Inicio da execucao ===
+2026-11-02 11:29:46,567 | INFO | === Inicio da execucao ===
+2026-11-02 11:30:22,644 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:30:37,470 | INFO | === Inicio da execucao ===
+2026-11-02 11:31:11,437 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:31:38,899 | INFO | === Inicio da execucao ===
+2026-11-02 11:32:16,691 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:32:41,784 | INFO | === Inicio da execucao ===
+2026-11-02 11:33:18,943 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:33:46,665 | INFO | === Inicio da execucao ===
+2026-11-02 11:34:21,717 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
+2026-11-02 11:35:43,291 | INFO | === Inicio da execucao ===
+2026-11-02 11:36:25,855 | ERROR | Falha na automacao
+Traceback (most recent call last):
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 160, in main
+    preparar_saves(remoto)
+    ~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Pardo\Documents\Automacao_PES_2013\pes_sync.py", line 100, in preparar_saves
+    raise RuntimeError("Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.")
+RuntimeError: Existem alteracoes locais pendentes. Download bloqueado para preservar o progresso.
